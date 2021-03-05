@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000125
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །གྲུབ་ཐོབ་བརྒྱད་ཅུ་རྩ་བཞིའི་ལོ་རྒྱུས་སློབ་དཔོན་མི་འཇིགས་པ་སྦྱིན་པ་དཔལ་གྱིས་མཛད་པ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མི་འཇིགས་པ་སྦྱིན་པའི་དཔལ།
-  sku: LEK-PHI-078
   layers:
   - book_title
   - author
   - chapter_title
   - yigchung
+  id: LEK-PHI-078
 web_metadata:
   title:
     en: The Lives of the Eighty-Four Mahasiddhas
